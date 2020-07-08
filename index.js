@@ -1,7 +1,7 @@
-function happyHolidays()
-  {return ("Happy holidays!")
+function happyHolidays(){
+  return ("Happy holidays!")
 }
 
-function happyHolidaysTo(tName){
+function happyHolidaysTo(Name){
   return ('Happy holidays, ${Name}!')
 }
